@@ -1,0 +1,16 @@
+﻿@page
+@model eUcionica.Pages.Test.RezultatModel
+@{
+    ViewData["Title"] = "Rezultat testa";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+<h1>Rezultat</h1>
+@if (true)
+{
+    <p>Imate @Model.TacniOdgovori tacnih odgovora od ukupno @Model.BrojPitanja pitanja.</p>
+}
+else
+{
+    <p>Došlo je do greške pri obradi rezultata testa.</p>
+}
+<a asp-page="./Test" class="btn btn-secondary">Vrati se nazad</a>
