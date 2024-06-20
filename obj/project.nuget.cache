@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EJg0wyi9ZAMwFGims8BQRb9Fk8K/LPNw6oENsGaRnetB9M3qf8Bxrzr7pq1xtbuQBUcIxArO/4D1HEx2CHvQlw==",
+  "dgSpecHash": "8EEkT7dbO7WBzgA/gjBWV1yZPrxACwDbF0diL+3Qxz0aFsaOvKEAdNMmmDQgERL+Bq1dKcTofa2q4k+Vo0jgOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\burag\\source\\repos\\eUcionica\\eUcionica\\eUcionica.csproj",
+  "projectFilePath": "C:\\Users\\burag\\OneDrive\\Desktop\\eUcionica\\eUcionica\\eUcionica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\burag\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\burag\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

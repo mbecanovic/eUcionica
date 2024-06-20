@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\burag\\source\\repos\\eUcionica\\eUcionica\\eUcionica.csproj": {}
+    "C:\\Users\\burag\\OneDrive\\Desktop\\eUcionica\\eUcionica\\eUcionica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\burag\\source\\repos\\eUcionica\\eUcionica\\eUcionica.csproj": {
+    "C:\\Users\\burag\\OneDrive\\Desktop\\eUcionica\\eUcionica\\eUcionica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burag\\source\\repos\\eUcionica\\eUcionica\\eUcionica.csproj",
+        "projectUniqueName": "C:\\Users\\burag\\OneDrive\\Desktop\\eUcionica\\eUcionica\\eUcionica.csproj",
         "projectName": "eUcionica",
-        "projectPath": "C:\\Users\\burag\\source\\repos\\eUcionica\\eUcionica\\eUcionica.csproj",
+        "projectPath": "C:\\Users\\burag\\OneDrive\\Desktop\\eUcionica\\eUcionica\\eUcionica.csproj",
         "packagesPath": "C:\\Users\\burag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burag\\source\\repos\\eUcionica\\eUcionica\\obj\\",
+        "outputPath": "C:\\Users\\burag\\OneDrive\\Desktop\\eUcionica\\eUcionica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\burag\\AppData\\Roaming\\NuGet\\NuGet.Config",
